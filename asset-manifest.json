@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d4a90bbc.css",
-    "main.js": "/Portfolio/static/js/main.b42052f7.js",
+    "main.js": "/Portfolio/static/js/main.c30238e7.js",
     "static/media/newsmonkey.png": "/Portfolio/static/media/newsmonkey.d71a26c6373dbb5ef260.png",
     "static/media/chatgpt.jpg": "/Portfolio/static/media/chatgpt.292ac5aa5fda11bc0345.jpg",
     "static/media/20881A0593.pdf": "/Portfolio/static/media/20881A0593.4256a19c8e7a2fa6fccc.pdf",
@@ -11,10 +11,10 @@
     "static/media/textutils.png": "/Portfolio/static/media/textutils.92eaeb20b8f7bd77aec4.png",
     "index.html": "/Portfolio/index.html",
     "main.d4a90bbc.css.map": "/Portfolio/static/css/main.d4a90bbc.css.map",
-    "main.b42052f7.js.map": "/Portfolio/static/js/main.b42052f7.js.map"
+    "main.c30238e7.js.map": "/Portfolio/static/js/main.c30238e7.js.map"
   },
   "entrypoints": [
     "static/css/main.d4a90bbc.css",
-    "static/js/main.b42052f7.js"
+    "static/js/main.c30238e7.js"
   ]
 }
