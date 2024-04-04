@@ -12,7 +12,7 @@ const Experience = () => {
             <h3 style={{ fontSize: '2rem', marginBottom: '1rem' }}>Data Engineer</h3>
             <div className="experience__content" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '1rem' }}>
               <h4 style={{ fontSize: '1.2rem', marginBottom: 0 }}>Advance Auto Parts</h4>
-              <p style={{ marginLeft: '1rem', marginBottom: 0 }}>February 2023 – March 2024</p>
+              <p style={{ marginLeft: '1rem', marginBottom: 0 }}>February 2024 – March 2024</p>
             </div>
             <ul style={{ listStyleType: 'none', padding: 0 }}>
               <li className="experience__details" style={{ display: 'flex', alignItems: 'center', marginBottom: '1rem' }}>
